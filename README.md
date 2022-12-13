@@ -1,3 +1,17 @@
+# Admission Form for Yoga Classes
+
+In this project I have created a Admission form for the yoga classes using the ReactJS as a front-end and firebase as a backend for storing all the data and payment information.
+This yoga class application is a dynamic website which reacts at realtime as well as it is highly scalable application.
+I have used the firebase realtime database's REST API for managing all the backend. This application form accepts the user data, does some validations and store the form data in the database and redirect it to the payment gateway.
+Once the payment is successful your regestration is completed.
+
+## Database
+Firebase Realtime Database
+
+## Deployment
+Netlify
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
