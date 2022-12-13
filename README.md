@@ -5,11 +5,14 @@ This yoga class application is a dynamic website which reacts at realtime as wel
 I have used the firebase realtime database's REST API for managing all the backend. This application form accepts the user data, does some validations and store the form data in the database and redirect it to the payment gateway.
 Once the payment is successful your regestration is completed.
 
+## Source Code
+GitHub : https://github.com/susverma/AdmissionForm
+
 ## Database
 Firebase Realtime Database
 
 ## Deployment
-Netlify
+Netlify : https://admissionform-yoga-classes.netlify.app/
 
 
 # Getting Started with Create React App
