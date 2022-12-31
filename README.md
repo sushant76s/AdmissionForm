@@ -15,6 +15,16 @@ Firebase Realtime Database
 ## Deployment
 Netlify : https://admissionform-yoga-classes.netlify.app/
 
+## FlowChart
+```mermaid
+  flowchart TD
+  A[User] --> B{Is Registered};
+  B -- Yes --> C[Proceed to payment!];
+  B -- No --> D[Register];
+  C ----> E[Admission done!];
+  D ----> E[Admission done!];
+```
+
 
 # Getting Started with Create React App
 
