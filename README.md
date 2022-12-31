@@ -18,9 +18,9 @@ Netlify : https://admissionform-yoga-classes.netlify.app/
 ## FlowChart
 ```mermaid
   flowchart TD
-  A[User] --> B{Is Registered};
+  A[User] --> B{Is user registered?};
   B -- Yes --> C[Proceed to payment!];
-  B -- No --> D[Register];
+  B -- No --> D[Redirect to register page];
   C ----> E[Admission done!];
   D ----> E[Admission done!];
 ```
